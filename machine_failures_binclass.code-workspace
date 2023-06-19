@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "/Users/JawanHaider/Documents/Projects/Kaggle/Machine_Failures_BinClass"
+		}
+	],
+	"settings": {
+		"python.formatting.provider": "black"
+	}
+}
